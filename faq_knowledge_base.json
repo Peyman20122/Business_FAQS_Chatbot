@@ -1,0 +1,602 @@
+[
+  {
+    "id": "faq001",
+    "category": "shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days within the country. Express shipping (available at checkout for an extra fee) takes 1-2 business days. International orders typically take 7-14 business days depending on the destination."
+  },
+  {
+    "id": "faq002",
+    "category": "shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 40 countries. Shipping costs and delivery times vary by destination and are calculated automatically at checkout once you enter your address."
+  },
+  {
+    "id": "faq003",
+    "category": "returns",
+    "question": "What is your return policy?",
+    "answer": "You can return any unused item in its original packaging within 30 days of delivery for a full refund. Items marked as final sale are not eligible for return. To start a return, go to 'My Orders' and select 'Request Return'."
+  },
+  {
+    "id": "faq004",
+    "category": "returns",
+    "question": "How long does a refund take to process?",
+    "answer": "Once we receive your returned item, refunds are processed within 5-7 business days. It may take an additional 2-3 business days for the refund to appear in your bank or card statement, depending on your bank."
+  },
+  {
+    "id": "faq005",
+    "category": "payment",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit and debit cards (Visa, Mastercard, American Express), PayPal, and bank transfer for orders over $100. We do not currently accept cryptocurrency."
+  },
+  {
+    "id": "faq006",
+    "category": "payment",
+    "question": "Is it safe to enter my card details on your website?",
+    "answer": "Yes. All payments are processed through a PCI-DSS compliant payment gateway with end-to-end encryption. We never store your full card number on our servers."
+  },
+  {
+    "id": "faq007",
+    "category": "account",
+    "question": "How do I reset my password?",
+    "answer": "Click 'Forgot Password' on the login page and enter your registered email address. You will receive a password reset link valid for 24 hours."
+  },
+  {
+    "id": "faq008",
+    "category": "account",
+    "question": "How do I delete my account?",
+    "answer": "You can request account deletion by going to Account Settings > Privacy > Delete Account, or by contacting support@example.com. Please note this action is permanent and cannot be undone."
+  },
+  {
+    "id": "faq009",
+    "category": "orders",
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, you will receive an email with a tracking number and a link to track your package in real time. You can also view tracking information under 'My Orders' in your account."
+  },
+  {
+    "id": "faq010",
+    "category": "orders",
+    "question": "Can I cancel or change my order after placing it?",
+    "answer": "Orders can be modified or cancelled within 1 hour of placement by contacting support. After this window, the order may already be in processing and cannot be changed."
+  },
+  {
+    "id": "faq011",
+    "category": "orders",
+    "question": "What should I do if I received a damaged or wrong item?",
+    "answer": "We're sorry for the inconvenience. Please contact support within 48 hours of delivery with photos of the item and packaging, and we will arrange a free replacement or full refund."
+  },
+  {
+    "id": "faq012",
+    "category": "support",
+    "question": "What are your customer support hours?",
+    "answer": "Our support team is available Saturday to Thursday, 9 AM to 6 PM. You can reach us via live chat, email at support@example.com, or phone. Messages sent outside these hours will be answered the next business day."
+  },
+  {
+    "id": "faq013",
+    "category": "support",
+    "question": "How can I contact a human agent?",
+    "answer": "If this assistant can't resolve your issue, type 'talk to an agent' or email support@example.com and a member of our team will follow up with you directly."
+  },
+  {
+    "id": "faq014",
+    "category": "discounts",
+    "question": "Do you have any active discount codes?",
+    "answer": "Current promotions are listed on our homepage banner and in our newsletter. Subscribe to our newsletter to be the first to know about new discount codes and seasonal sales."
+  },
+  {
+    "id": "faq015",
+    "category": "warranty",
+    "question": "Do your products come with a warranty?",
+    "answer": "Most electronic products come with a 12-month manufacturer warranty covering defects. Warranty does not cover accidental damage or misuse. Warranty terms for a specific product are listed on its product page."
+  },
+  {
+    "id": "faq016",
+    "category": "shipping",
+    "question": "Do you offer same-day delivery?",
+    "answer": "Same-day delivery is available in select major cities for orders placed before 12 PM local time, for an additional fee shown at checkout. Availability is confirmed automatically based on your delivery address."
+  },
+  {
+    "id": "faq017",
+    "category": "shipping",
+    "question": "What happens if I'm not home when my package arrives?",
+    "answer": "The courier will attempt delivery up to 3 times. If unsuccessful, the package is held at the nearest pickup point for 7 days, after which it is returned to us and a refund is issued minus shipping costs."
+  },
+  {
+    "id": "faq018",
+    "category": "shipping",
+    "question": "Can I change my delivery address after ordering?",
+    "answer": "You can update your delivery address within 1 hour of placing the order, as long as it hasn't shipped yet. Contact support immediately with your order number to request the change."
+  },
+  {
+    "id": "faq019",
+    "category": "shipping",
+    "question": "Do you offer free shipping?",
+    "answer": "Free standard shipping applies automatically to orders over $75 within the country. Orders below this amount incur a flat shipping fee of $5.99, shown at checkout."
+  },
+  {
+    "id": "faq020",
+    "category": "shipping",
+    "question": "Can I choose a specific delivery time?",
+    "answer": "Currently we don't support scheduled delivery time slots, only estimated delivery windows shown in your tracking page. Some regions with a local courier partner may offer scheduled slots at checkout."
+  },
+  {
+    "id": "faq021",
+    "category": "returns",
+    "question": "Do I have to pay for return shipping?",
+    "answer": "Return shipping is free if the item arrived damaged, defective, or incorrect. For other reasons (change of mind, wrong size), a $6.99 return shipping fee is deducted from your refund."
+  },
+  {
+    "id": "faq022",
+    "category": "returns",
+    "question": "Can I exchange an item instead of returning it?",
+    "answer": "Yes, go to 'My Orders', select 'Request Exchange', and choose the new size or color. Exchanges are processed as soon as we receive the original item back at our warehouse."
+  },
+  {
+    "id": "faq023",
+    "category": "returns",
+    "question": "What if I lost my receipt or order confirmation?",
+    "answer": "You don't need a physical receipt. We can look up your order using your email address or order number, both of which are available in your account order history."
+  },
+  {
+    "id": "faq024",
+    "category": "returns",
+    "question": "Can I return a gift I received?",
+    "answer": "Yes, gift returns are accepted with the gift receipt or order number for store credit. Without any proof of purchase, we're unable to process a return."
+  },
+  {
+    "id": "faq025",
+    "category": "account",
+    "question": "How do I update my email address?",
+    "answer": "Go to Account Settings > Personal Information, update your email, and confirm the change via the verification link sent to your new address."
+  },
+  {
+    "id": "faq026",
+    "category": "account",
+    "question": "Can I have multiple shipping addresses saved?",
+    "answer": "Yes, you can save up to 5 addresses under Account Settings > Address Book, and choose which one to use at checkout for each order."
+  },
+  {
+    "id": "faq027",
+    "category": "account",
+    "question": "Why was my account temporarily locked?",
+    "answer": "Accounts are automatically locked after 5 failed login attempts for security reasons. You can unlock it immediately by resetting your password via the 'Forgot Password' link."
+  },
+  {
+    "id": "faq028",
+    "category": "account",
+    "question": "How do I merge two accounts I accidentally created?",
+    "answer": "Account merging must be done manually by our support team. Contact support@example.com with both email addresses and we'll consolidate your order history within 3 business days."
+  },
+  {
+    "id": "faq029",
+    "category": "orders",
+    "question": "Can I add items to an order after placing it?",
+    "answer": "Adding items to an existing order isn't possible once it's been placed. You'll need to place a separate order, though we're happy to combine shipping if both orders haven't shipped yet -- contact support to request this."
+  },
+  {
+    "id": "faq030",
+    "category": "orders",
+    "question": "Why is my order stuck at 'Processing'?",
+    "answer": "Orders typically move to 'Shipped' within 1-2 business days. If your order has been in 'Processing' for more than 3 business days, please contact support so we can investigate."
+  },
+  {
+    "id": "faq031",
+    "category": "orders",
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, gift wrapping is available at checkout for $3.99 per item, and includes an optional personalized gift note at no extra charge."
+  },
+  {
+    "id": "faq032",
+    "category": "orders",
+    "question": "Can I place a pre-order for an out-of-stock item?",
+    "answer": "Yes, items marked 'Pre-order' can be purchased in advance. Your card is only charged once the item ships, and estimated ship dates are listed on the product page."
+  },
+  {
+    "id": "faq033",
+    "category": "orders",
+    "question": "How do I use a gift card?",
+    "answer": "Enter your gift card code in the 'Gift Card / Promo Code' field at checkout. The balance is applied automatically, and any remaining balance stays on the card for future orders."
+  },
+  {
+    "id": "faq034",
+    "category": "support",
+    "question": "Do you offer support in languages other than English?",
+    "answer": "Yes, our live chat and email support are available in English, Spanish, and French. Phone support is currently English-only."
+  },
+  {
+    "id": "faq035",
+    "category": "support",
+    "question": "How long does it take to get an email response?",
+    "answer": "We aim to respond to all support emails within 24 hours on business days. Live chat and phone inquiries during business hours are typically answered within 5 minutes."
+  },
+  {
+    "id": "faq036",
+    "category": "support",
+    "question": "Is there a self-service help center?",
+    "answer": "Yes, our Help Center at help.example.com covers most common questions with step-by-step guides, and is available 24/7 even outside support hours."
+  },
+  {
+    "id": "faq037",
+    "category": "discounts",
+    "question": "Can I combine multiple discount codes?",
+    "answer": "Only one discount code can be applied per order. If you have multiple codes, our system will automatically apply the one offering the greater discount."
+  },
+  {
+    "id": "faq038",
+    "category": "discounts",
+    "question": "Do you offer student discounts?",
+    "answer": "Yes, verified students receive 15% off through our student verification partner, accessible via the 'Student Discount' link in the footer of our website."
+  },
+  {
+    "id": "faq039",
+    "category": "discounts",
+    "question": "Do you have a loyalty or rewards program?",
+    "answer": "Yes, our Rewards Program lets you earn 1 point per $1 spent, redeemable for discounts starting at 100 points ($5 off). Sign-up is free and automatic when you create an account."
+  },
+  {
+    "id": "faq040",
+    "category": "discounts",
+    "question": "Will I get a discount if the price drops after I buy?",
+    "answer": "If the price of an item you purchased drops within 7 days of your order, contact support with your order number and we'll refund the difference as store credit."
+  },
+  {
+    "id": "faq041",
+    "category": "warranty",
+    "question": "How do I file a warranty claim?",
+    "answer": "Go to 'My Orders', select the item, and click 'File Warranty Claim'. You'll need to describe the issue and may be asked to provide photos; approved claims are repaired or replaced at no cost."
+  },
+  {
+    "id": "faq042",
+    "category": "warranty",
+    "question": "Does the warranty cover water damage?",
+    "answer": "Standard warranty does not cover water or liquid damage unless the product is explicitly marketed as waterproof and used within its rated specifications. Accidental damage protection plans, if purchased separately, may cover this."
+  },
+  {
+    "id": "faq043",
+    "category": "warranty",
+    "question": "Can I extend my product's warranty?",
+    "answer": "Yes, an extended warranty covering an additional 12 or 24 months can be purchased within 30 days of your original purchase from the product page or by contacting support."
+  },
+  {
+    "id": "faq044",
+    "category": "product",
+    "question": "How do I know what size to order?",
+    "answer": "Each product page includes a detailed size chart under the 'Size Guide' tab, along with model measurements for reference. If you're between sizes, we generally recommend sizing up."
+  },
+  {
+    "id": "faq045",
+    "category": "product",
+    "question": "Are your product photos accurate to the actual color?",
+    "answer": "We calibrate our product photography to be as accurate as possible, but slight color variations can occur due to individual screen settings. Detailed color descriptions are included in each product description."
+  },
+  {
+    "id": "faq046",
+    "category": "product",
+    "question": "Where are your products made?",
+    "answer": "Manufacturing locations vary by product line and are listed in the 'Product Details' section of each product page, along with material composition and care instructions."
+  },
+  {
+    "id": "faq047",
+    "category": "product",
+    "question": "Do you restock sold-out items?",
+    "answer": "Popular items are usually restocked within 2-4 weeks. You can click 'Notify Me' on any sold-out product page to receive an email as soon as it's back in stock."
+  },
+  {
+    "id": "faq048",
+    "category": "product",
+    "question": "How do I care for my product to make it last longer?",
+    "answer": "Care instructions specific to each product are listed on the product page and on the attached care label. General guidance is also available in our Help Center under 'Product Care'."
+  },
+  {
+    "id": "faq049",
+    "category": "pricing",
+    "question": "Do you price match competitors?",
+    "answer": "Yes, we price match identical in-stock items from major authorized retailers within 7 days of purchase. Submit a price match request through support with a link to the competitor's listing."
+  },
+  {
+    "id": "faq050",
+    "category": "pricing",
+    "question": "Why do prices vary by region?",
+    "answer": "Prices reflect local taxes, import duties, and currency conversion rates, and may differ slightly between regions to account for these factors."
+  },
+  {
+    "id": "faq051",
+    "category": "pricing",
+    "question": "Are prices shown inclusive of tax?",
+    "answer": "Displayed prices are tax-exclusive by default; applicable sales tax is calculated and added at checkout based on your shipping address."
+  },
+  {
+    "id": "faq052",
+    "category": "international",
+    "question": "Will I have to pay customs duties on international orders?",
+    "answer": "International orders may be subject to customs duties and import taxes determined by your country, which are the responsibility of the recipient and are not included in our checkout price."
+  },
+  {
+    "id": "faq053",
+    "category": "international",
+    "question": "Can I return an international order?",
+    "answer": "Yes, international returns follow the same 30-day policy, though the customer covers return shipping costs, and delivery times for refund processing may be longer due to customs clearance."
+  },
+  {
+    "id": "faq054",
+    "category": "international",
+    "question": "Do you offer international size conversions?",
+    "answer": "Yes, our size guide includes US, UK, EU, and international conversion tables for all applicable products, available under the 'Size Guide' tab."
+  },
+  {
+    "id": "faq055",
+    "category": "technical",
+    "question": "The website isn't loading properly, what should I do?",
+    "answer": "Try clearing your browser cache or using a different browser. If the issue persists, please report it to support@example.com with a screenshot and your device/browser details so our technical team can investigate."
+  },
+  {
+    "id": "faq056",
+    "category": "technical",
+    "question": "Is there a mobile app?",
+    "answer": "Yes, our app is available on iOS and Android, offering exclusive app-only discounts and faster checkout with saved payment details."
+  },
+  {
+    "id": "faq057",
+    "category": "technical",
+    "question": "Why isn't my promo code working?",
+    "answer": "Promo codes may be expired, restricted to certain products, or require a minimum order value. Check the code's terms on our Promotions page, or contact support for assistance."
+  },
+  {
+    "id": "faq058",
+    "category": "technical",
+    "question": "How do I unsubscribe from marketing emails?",
+    "answer": "Click 'Unsubscribe' at the bottom of any marketing email, or manage your preferences under Account Settings > Communication Preferences. Order and shipping notifications will continue regardless."
+  },
+  {
+    "id": "faq059",
+    "category": "privacy",
+    "question": "How is my personal data used?",
+    "answer": "Your data is used solely to process orders, provide support, and (if opted in) send marketing communications. Full details are available in our Privacy Policy, and we never sell your data to third parties."
+  },
+  {
+    "id": "faq060",
+    "category": "privacy",
+    "question": "How do I request a copy of my personal data?",
+    "answer": "Under data protection regulations, you can request a full export of your personal data by emailing privacy@example.com; we'll provide it within 30 days as required by law."
+  },
+  {
+    "id": "faq061",
+    "category": "privacy",
+    "question": "Do you use cookies?",
+    "answer": "Yes, we use essential cookies for site functionality and optional analytics/marketing cookies, which you can manage anytime through the cookie preferences banner or Account Settings."
+  },
+  {
+    "id": "faq062",
+    "category": "subscription",
+    "question": "How do I manage my subscription plan?",
+    "answer": "Go to Account Settings > Subscriptions to view, pause, skip, or cancel any active subscription. Changes made before the billing cutoff date apply to your next shipment."
+  },
+  {
+    "id": "faq063",
+    "category": "subscription",
+    "question": "Can I pause my subscription instead of cancelling?",
+    "answer": "Yes, subscriptions can be paused for up to 3 months at a time under Account Settings > Subscriptions, and will automatically resume unless cancelled."
+  },
+  {
+    "id": "faq064",
+    "category": "subscription",
+    "question": "When will I be charged for my subscription?",
+    "answer": "Subscription charges occur automatically 3 days before your scheduled shipment date, and you'll receive an email reminder before each charge."
+  },
+  {
+    "id": "faq065",
+    "category": "business",
+    "question": "Do you offer bulk or wholesale pricing?",
+    "answer": "Yes, orders of 50+ units qualify for wholesale pricing. Submit a request through our Wholesale Inquiries page with your business details, and our team will respond within 3 business days."
+  },
+  {
+    "id": "faq066",
+    "category": "business",
+    "question": "Do you offer corporate gifting solutions?",
+    "answer": "Yes, our corporate gifting program includes custom branding, bulk discounts, and consolidated invoicing. Contact corporate@example.com to discuss your requirements."
+  },
+  {
+    "id": "faq067",
+    "category": "business",
+    "question": "How do I become an affiliate or partner?",
+    "answer": "You can apply through our Affiliate Program page; approved affiliates earn a commission on referred sales, with payouts processed monthly via PayPal or bank transfer."
+  },
+  {
+    "id": "faq068",
+    "category": "careers",
+    "question": "How do I apply for a job with your company?",
+    "answer": "All open positions are listed on our Careers page, where you can submit your application directly online. We review applications on a rolling basis and reach out within 2 weeks if there's a match."
+  },
+  {
+    "id": "faq069",
+    "category": "store",
+    "question": "Do you have physical retail stores?",
+    "answer": "Yes, we have retail locations in select major cities. Use the 'Store Locator' on our website to find the nearest location, hours, and available services."
+  },
+  {
+    "id": "faq070",
+    "category": "store",
+    "question": "Can I return an online order to a physical store?",
+    "answer": "Yes, online orders can be returned or exchanged at any physical store location within the standard 30-day return window, with your order confirmation email as proof of purchase."
+  },
+  {
+    "id": "faq071",
+    "category": "store",
+    "question": "Can I reserve an item online and pick it up in-store?",
+    "answer": "Yes, select 'Reserve & Pickup' at checkout for eligible items at participating stores; reservations are held for 24 hours and require no upfront payment."
+  },
+  {
+    "id": "faq072",
+    "category": "sustainability",
+    "question": "Are your packaging materials recyclable?",
+    "answer": "Yes, all our shipping boxes and mailers are made from recycled cardboard and are fully recyclable. We've eliminated single-use plastic from our packaging as of last year."
+  },
+  {
+    "id": "faq073",
+    "category": "sustainability",
+    "question": "Do you have a recycling or take-back program?",
+    "answer": "Yes, our Take-Back Program lets you return used products for responsible recycling in exchange for a store credit, details of which are available on our Sustainability page."
+  },
+  {
+    "id": "faq074",
+    "category": "payment",
+    "question": "Can I pay in installments?",
+    "answer": "Yes, orders over $50 are eligible for installment payments through our checkout partner, split into 4 interest-free payments over 6 weeks."
+  },
+  {
+    "id": "faq075",
+    "category": "payment",
+    "question": "Why was my payment declined?",
+    "answer": "Declines are usually due to insufficient funds, an expired card, or your bank's fraud protection flagging the transaction. Please verify your card details or contact your bank; no charge is made on a declined payment."
+  },
+  {
+    "id": "faq076",
+    "category": "payment",
+    "question": "Can I get an invoice for my order for accounting purposes?",
+    "answer": "Yes, a detailed invoice is automatically emailed after every purchase, and can also be downloaded anytime from 'My Orders' > 'View Invoice'."
+  },
+  {
+    "id": "faq077",
+    "category": "account",
+    "question": "Can I shop as a guest without creating an account?",
+    "answer": "Yes, guest checkout is available for all orders. However, creating an account lets you track orders, save addresses, and access order history more easily."
+  },
+  {
+    "id": "faq078",
+    "category": "orders",
+    "question": "What happens if an item in my order is out of stock after I paid?",
+    "answer": "If an item becomes unavailable after your order is placed, we'll notify you by email immediately and offer a substitute, backorder option, or full refund for that item."
+  },
+  {
+    "id": "faq079",
+    "category": "shipping",
+    "question": "Do you ship to PO boxes or military addresses (APO/FPO)?",
+    "answer": "Yes, we ship to PO boxes and APO/FPO addresses via standard postal service, though express shipping options are not available for these address types."
+  },
+  {
+    "id": "faq080",
+    "category": "returns",
+    "question": "Is there a restocking fee for returns?",
+    "answer": "Most items have no restocking fee. Large items (furniture, appliances) may carry a 10% restocking fee, clearly disclosed on the product page before purchase."
+  },
+  {
+    "id": "faq081",
+    "category": "support",
+    "question": "Can I request a callback instead of waiting on hold?",
+    "answer": "Yes, if wait times exceed 5 minutes, our phone system offers a callback option that holds your place in line without requiring you to stay on the call."
+  },
+  {
+    "id": "faq082",
+    "category": "discounts",
+    "question": "Do you offer a referral program?",
+    "answer": "Yes, refer a friend using your unique referral link in Account Settings, and you'll both receive $10 off your next purchase once their first order ships."
+  },
+  {
+    "id": "faq083",
+    "category": "warranty",
+    "question": "Do I need to register my product for the warranty to be valid?",
+    "answer": "No registration is required; your warranty is automatically validated by your order confirmation and purchase date on file, so keep your order number for any future claims."
+  },
+  {
+    "id": "faq084",
+    "category": "product",
+    "question": "Are your products tested on animals?",
+    "answer": "No, none of our products or ingredients are tested on animals, and this policy is certified by an independent third-party organization listed on our Sustainability page."
+  },
+  {
+    "id": "faq085",
+    "category": "product",
+    "question": "Do you offer personalized or custom products?",
+    "answer": "Yes, select product lines offer customization (engraving, monogramming, color choice) through the 'Personalize' option on the product page, which adds 3-5 extra business days to processing time."
+  },
+  {
+    "id": "faq086",
+    "category": "pricing",
+    "question": "Do you offer a lowest-price guarantee?",
+    "answer": "We don't offer a blanket lowest-price guarantee, but we do offer price matching against major authorized retailers as described in our Price Match policy."
+  },
+  {
+    "id": "faq087",
+    "category": "international",
+    "question": "What currencies can I pay in?",
+    "answer": "You can view and pay in your local currency for over 30 currencies, automatically detected based on your location, or manually selected in the site footer."
+  },
+  {
+    "id": "faq088",
+    "category": "technical",
+    "question": "How do I clear items from my saved wishlist?",
+    "answer": "Go to your Wishlist page, and click the 'X' icon next to any item to remove it, or select 'Clear All' to empty the entire list at once."
+  },
+  {
+    "id": "faq089",
+    "category": "privacy",
+    "question": "How long do you keep my order history?",
+    "answer": "Order history is retained for as long as your account remains active, and for a minimum of 7 years for tax and accounting compliance purposes even after account closure."
+  },
+  {
+    "id": "faq090",
+    "category": "subscription",
+    "question": "What happens to unused subscription credits if I cancel?",
+    "answer": "Any unused subscription credit is converted to store credit upon cancellation and remains valid for 12 months from the cancellation date."
+  },
+  {
+    "id": "faq091",
+    "category": "business",
+    "question": "Do you offer net payment terms for business accounts?",
+    "answer": "Approved business accounts with a purchase history can request Net-30 payment terms by contacting our business team, subject to a credit check."
+  },
+  {
+    "id": "faq092",
+    "category": "store",
+    "question": "Do physical stores carry the full online catalog?",
+    "answer": "No, physical stores carry a curated selection based on regional demand. Use the 'Check Store Availability' button on any product page to see what's in stock nearby."
+  },
+  {
+    "id": "faq093",
+    "category": "orders",
+    "question": "Can I split my order into multiple shipments?",
+    "answer": "Orders with items from different warehouses may automatically ship separately at no extra cost; you'll receive separate tracking numbers for each shipment."
+  },
+  {
+    "id": "faq094",
+    "category": "returns",
+    "question": "Can I return an item I bought during a sale or clearance event?",
+    "answer": "Sale and clearance items follow the same 30-day return policy unless explicitly marked 'Final Sale' on the product page and at checkout."
+  },
+  {
+    "id": "faq095",
+    "category": "shipping",
+    "question": "What carriers do you use for shipping?",
+    "answer": "We partner with FedEx, UPS, and DHL depending on your location and shipping speed selected, with the specific carrier and tracking link shown once your order ships."
+  },
+  {
+    "id": "faq096",
+    "category": "payment",
+    "question": "Can I use more than one payment method for a single order?",
+    "answer": "Currently only one payment method can be used per order, except when combining a gift card with a credit/debit card, which is fully supported at checkout."
+  },
+  {
+    "id": "faq097",
+    "category": "shipping",
+    "question": "Can I use my own shipping account/courier?",
+    "answer": "Currently we don't support using your own courier account for standard checkout, but bulk/business orders can arrange custom shipping through our Wholesale team."
+  },
+  {
+    "id": "faq098",
+    "category": "account",
+    "question": "Can I change my username or display name?",
+    "answer": "Yes, your display name can be updated anytime under Account Settings > Profile; your login email is used for authentication and can be changed separately under Personal Information."
+  },
+  {
+    "id": "faq099",
+    "category": "product",
+    "question": "Do you sell gift cards, and do they expire?",
+    "answer": "Yes, digital and physical gift cards are available in denominations from $10 to $500, and do not expire, in compliance with applicable consumer protection regulations."
+  },
+  {
+    "id": "faq100",
+    "category": "support",
+    "question": "Is there a status page for site outages or known issues?",
+    "answer": "Yes, real-time platform status and any known issues are posted at status.example.com, which you can subscribe to for outage notifications."
+  }
+]
